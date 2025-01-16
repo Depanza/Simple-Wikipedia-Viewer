@@ -1,4 +1,4 @@
-# Wikipedia Viewer
+# Simple Wikipedia Viewer
 
 A web application that enables real-time Wikipedia article searches with dynamic results display.
 
